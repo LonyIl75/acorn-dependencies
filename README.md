@@ -98,4 +98,6 @@ module.exports = function noisyReadToken(Parser) {
 In the context of __Komorebi__ project, I have used acorn to detect dependencies in javascript code. 
 (see : [#17905249](https://stackoverflow.com/questions/17905249/how-can-i-detect-all-dependencies-of-a-function-in-node-js) )
 
+[acorn-version](https://github.com/acornjs/acorn/tree/7fb1ee766f4169eed10ae6db4db7ddbdd54a598a): last commit 7fb1ee7 Sep 4, 2023
+
 This code is currently a WIP.
